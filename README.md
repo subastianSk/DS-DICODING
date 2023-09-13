@@ -1,0 +1,1 @@
+link deploy : https://data-analytics-dicoding.streamlit.app/
